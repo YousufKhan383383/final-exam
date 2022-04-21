@@ -1,0 +1,20 @@
+.heading{
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading{
+    color: bisque;
+   
+}
+
+.bg-image{ 
+    margin: auto;
+    padding: 300px;
+    background-image: url(image/galaxy1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
