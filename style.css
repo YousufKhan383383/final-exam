@@ -5,16 +5,42 @@
 }
 
 .heading{
-    color: bisque;
-   
+    color: burlywood;
 }
 
-.bg-image{ 
-    margin: auto;
-    padding: 300px;
-    background-image: url(image/galaxy1.jpg);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    overflow: hidden;
+.search{
+    margin: 25px;
+    padding: 20px;
 }
+
+.main img {
+    margin: 25px;
+    padding: 20px;
+    width: 280px;
+  
+}
+
+.main p {
+    margin: 25px;
+    padding: 20px;
+    background-color: azure;
+}
+
+.page-footer{
+    background-color: rgba(99, 99, 99, 0.411);
+    text-align: center;
+}
+
+
+.main-container{
+    margin: 25px;
+    padding: 20px;
+}
+
+
+.new-container{
+    margin: 25px;
+    padding: 20px;
+}
+
+
