@@ -26,7 +26,7 @@ function loadMeal (data){
 
 
      container.innerHTML = `<p><b> ${title} </b></p>
-                         <img src="${imgLink}" <br/>
+                         <img src= "${data.meals[0].strMealThumb}">
                          <p> Category: ${cat} </p>
                          <button onclick="showAll()"> Show All </button>`;
                          
